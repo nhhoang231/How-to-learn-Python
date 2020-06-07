@@ -18,8 +18,8 @@ Một class có thể chứa một hoặc rất nhiều các thuộc tính. Thu�
 __Cú pháp khai báo thuộc tính:__
 ```python
 class Person:
-    name = "Lacoski";
-    age = 22;
+    name = "nguyenhoang";
+    age = 21;
     male = True
 ```
 ## 3. Khai báo phương thức trong Class (methods)
@@ -29,8 +29,8 @@ __Cú pháp khai báo phương thức__
 ```python
 class Person:
     # thuộc tính
-    name = "Lacoski";
-    age = 22;
+    name = "nguyenhoang";
+    age = 21;
     male = True
     # phương thức
     def setName(self, name):
