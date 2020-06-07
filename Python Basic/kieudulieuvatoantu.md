@@ -8,7 +8,7 @@ VD:
 ```python
 a = 20          # so nguyen
 b = 100.0       # so thuc
-ten = "Thanh"   # chuoi
+ten = "Hoang"   # chuoi
 
 print a
 print b
