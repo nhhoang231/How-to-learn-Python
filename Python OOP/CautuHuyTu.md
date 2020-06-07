@@ -44,10 +44,10 @@ class Person:
         print("Name: %s - Age: %d - Male: %d" %(name, age, male))
     def __del__(self):
         print('Class Person được hủy')
-person = Person('Lacoski', 22, True)
+person = Person('Nguyen Huy Hoang', 21, True)
 # kết quả: 
 # Class person được khởi tạo!
-# Name: Vu Thanh Tai - Age: 22 - Male: 1
+# Name: Nguyen Huy Hoang - Age: 21 - Male: 1
 # Class Person được hủy
 ```
 
