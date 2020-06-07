@@ -38,4 +38,4 @@ Có thế dễ dàng tích hợp với C, C++, COM, CORBA, ActiveX, Java.
 Ngoài các tính năng chính nêu trên Python còn nhiều các tính năng khác nữa.
 
 ## Nguồn
-https://www.stdio.vn/articles/tong-quan-ve-python-335
+https://vi.wikipedia.org/wiki/Python_(ng%C3%B4n_ng%E1%BB%AF_l%E1%BA%ADp_tr%C3%ACnh)
