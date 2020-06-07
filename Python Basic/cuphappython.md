@@ -7,7 +7,7 @@ Một định danh bắt đầu với một chữ cái từ A tới Z hoặc t�
 
 > Python không hỗ trợ các Punctuation char chẳng hạn như @, $ và % bên trong các định danh.
 
-Python là một ngôn ngữ lập trình phân biệt chữ hoa - chữ thường, do đó Thanh và thanh là hai định danh khác nhau.
+Python là một ngôn ngữ lập trình phân biệt chữ hoa - chữ thường, do đó Hoang và hoang là hai định danh khác nhau.
 
 Một số qui tắc nên được sử dụng trong khi đặt tên các định danh:
 - Một định danh là một dãy ký tự hoặc chữ số.
